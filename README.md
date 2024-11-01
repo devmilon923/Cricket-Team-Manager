@@ -23,3 +23,7 @@ Cricket Team Manager is a React application that allows users to create a cricke
 2. **Responsive Design**: The app design meets responsive regulations and as a result, the users can enjoy a smooth and easy interface no matter which device they are using.
 
 3. **Real-time Notifications**: React-Toastify notification features were added to allow instant feedback and user-friendly handling of actions such as adding or removing players.
+
+## Live URL
+
+https://cricket-team-manager.netlify.app/
